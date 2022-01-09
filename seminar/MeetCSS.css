@@ -1,0 +1,50 @@
+body{color: #00698c}
+
+#naslov
+{
+	text-align:center;
+	color:#b3b300;
+	font-size: 80px;
+	font-family:Calibri;
+}
+
+.jesteliznali
+{
+	text-align:left;
+	color:#0080ff;
+	font-size:35px;
+	font-family:Lucida sans;
+}
+
+p.opetznate
+{
+	
+	font-size: 20px;
+	font-family:Verdana;
+    text-align: justify;
+    color: #dbdbea;
+	
+}
+}
+
+a:link {color: red;}
+a:visited{color: white;}	
+a:hover{color: yellow}
+a:active{color: green}
+
+li.vodicc
+{
+	
+	font-size: 20px;
+	font-family:Verdana;
+    text-align: justify;
+    color: #dbdbea;	
+}
+
+form.okolis
+{
+	text-align:right;
+	color:#b3002d;
+	font-size:20px;
+	font-family:Calibri bold;
+}
